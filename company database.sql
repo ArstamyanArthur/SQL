@@ -1,8 +1,5 @@
 create database company;
 
-use student_table;
-drop table employee;
-
 CREATE TABLE employee (
   emp_id INT PRIMARY KEY,
   first_name VARCHAR(40),
