@@ -53,3 +53,5 @@ DELETE FROM student
 WHERE name = 'Tom' and major='undecided';
 
 DROP TABLE student;
+
+
