@@ -51,3 +51,5 @@ WHERE student_id = 5;
 
 DELETE FROM student
 WHERE name = 'Tom' and major='undecided';
+
+DROP TABLE student;
