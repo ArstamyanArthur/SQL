@@ -7,6 +7,7 @@
 ![IMG_0422](https://github.com/user-attachments/assets/94bc9551-2108-4c58-b686-e950b5059b2a)
 ## Creating relations(tables) from the diagram 
 ![IMG_5594](https://github.com/user-attachments/assets/916c4b87-723c-4863-96d5-88cb695e25ce)
+## Company database with inserted rows
 ![IMG_5595](https://github.com/user-attachments/assets/ed3e97a1-2246-4f10-8e00-9d522b5adc06)
 
 # Database indexing
