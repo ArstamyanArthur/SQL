@@ -11,10 +11,9 @@
 ![IMG_5595](https://github.com/user-attachments/assets/ed3e97a1-2246-4f10-8e00-9d522b5adc06)
 
 # Database indexing
-## Database indexing for dumb developers - https://youtu.be/lYh6LrSIDvY?si=rDniWfQ_IcXFUdjY
-## How do SQL indexes work - https://youtu.be/YuRO9-rOgv4?si=Z_0YB4L4yhSHj2D6
+Database indexing for dumb developers - https://youtu.be/lYh6LrSIDvY?si=rDniWfQ_IcXFUdjY
+How do SQL indexes work - https://youtu.be/YuRO9-rOgv4?si=Z_0YB4L4yhSHj2D6
 ## Indexing on one column and comparing perfomances of the same query before and after indexing
-### Code
-https://github.com/ArstamyanArthur/SQL/blob/main/Database%20indexing.sql
-### Perfomances of the query on a screenshot
+Code - https://github.com/ArstamyanArthur/SQL/blob/main/Database%20indexing.sql
+
 
