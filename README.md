@@ -1,5 +1,7 @@
 # SQL
 ## ER diagrams
+### GeeksforGeeks Introduction of ER Model - https://www.geeksforgeeks.org/introduction-of-er-model/
+### YouTube Giraffe Academy - https://youtu.be/Ql0w3x6gGI4?si=AQz5AehnrtmlMokg
 ![ER model_1](https://github.com/user-attachments/assets/cdc8410b-201b-4960-a713-dcdc16a84163)
 ![ER_model_2](https://github.com/user-attachments/assets/2b843b40-4277-4b91-b843-bdd39c4e3b3b)
 ## Creating ER diagram of the company database
