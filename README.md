@@ -9,6 +9,6 @@
 ![IMG_5595](https://github.com/user-attachments/assets/ed3e97a1-2246-4f10-8e00-9d522b5adc06)
 
 ## Database indexing
-Database indexing for dumb developers - https://youtu.be/lYh6LrSIDvY?si=rDniWfQ_IcXFUdjY
-How do SQL indexes work - https://youtu.be/YuRO9-rOgv4?si=Z_0YB4L4yhSHj2D6
+### Database indexing for dumb developers - https://youtu.be/lYh6LrSIDvY?si=rDniWfQ_IcXFUdjY
+### How do SQL indexes work - https://youtu.be/YuRO9-rOgv4?si=Z_0YB4L4yhSHj2D6
 ![IMG_5596](https://github.com/user-attachments/assets/fa9ef96f-b1f1-4219-897c-2a9835d6ce69)
