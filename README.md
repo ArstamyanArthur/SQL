@@ -1,9 +1,10 @@
 # SQL
-## E/R diagrams
+## ER diagrams
 ![ER model_1](https://github.com/user-attachments/assets/cdc8410b-201b-4960-a713-dcdc16a84163)
 ![ER_model_2](https://github.com/user-attachments/assets/2b843b40-4277-4b91-b843-bdd39c4e3b3b)
-## Creating ER diagram of the company database and tables from the diagram 
+## Creating ER diagram of the company database
 ![IMG_0422](https://github.com/user-attachments/assets/94bc9551-2108-4c58-b686-e950b5059b2a)
+## Creating relations(tables) from the diagram 
 ![IMG_5594](https://github.com/user-attachments/assets/916c4b87-723c-4863-96d5-88cb695e25ce)
 ![IMG_5595](https://github.com/user-attachments/assets/ed3e97a1-2246-4f10-8e00-9d522b5adc06)
 
