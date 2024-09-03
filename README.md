@@ -17,7 +17,13 @@ Database indexing for dumb developers - https://youtu.be/lYh6LrSIDvY?si=rDniWfQ_
 How do SQL indexes work - https://youtu.be/YuRO9-rOgv4?si=Z_0YB4L4yhSHj2D6   
 Socratica - https://youtu.be/fsG1XaZEa78?si=JSSznlUGqGSNiuuB
 
-## Indexing and comparing perfomances before and after indexing
+
+## Indexing and comparing perfomances before and after indexing  
+How query on a column with non-clustered index works
+![How query on a column with non-clustered index works](https://github.com/user-attachments/assets/39483e79-0f8b-4df5-8874-1c792adf74af)
 Code - https://github.com/ArstamyanArthur/SQL/blob/main/Database%20indexing.sql  
-Results on a screenshot
-![IMG_5597](https://github.com/user-attachments/assets/941fd3da-205f-4553-b95a-279261896f20)
+Results below
+![IMG_5597](https://github.com/user-attachments/assets/941fd3da-205f-4553-b95a-279261896f20)  
+Another example of how indexing works and speeds up queries  
+![how indexing works and speeds up queries](https://github.com/user-attachments/assets/44c043da-5bfc-42ed-81f3-dc43a4b5aebe)
+
