@@ -14,7 +14,9 @@ Company database with inserted rows
 
 # Database indexing
 Database indexing for dumb developers - https://youtu.be/lYh6LrSIDvY?si=rDniWfQ_IcXFUdjY  
-How do SQL indexes work - https://youtu.be/YuRO9-rOgv4?si=Z_0YB4L4yhSHj2D6 
+How do SQL indexes work - https://youtu.be/YuRO9-rOgv4?si=Z_0YB4L4yhSHj2D6   
+Socratica - https://youtu.be/fsG1XaZEa78?si=JSSznlUGqGSNiuuB
+
 ## Indexing and comparing perfomances before and after indexing
 Code - https://github.com/ArstamyanArthur/SQL/blob/main/Database%20indexing.sql  
 Results on a screenshot
