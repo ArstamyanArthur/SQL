@@ -1,4 +1,3 @@
-# 1 hour of SQL - https://youtu.be/l8DCPaHc5TQ?si=-S48CvYq03yJA1hm. 
 # ER diagrams
 ## GeeksforGeeks Introduction of ER Model  
 https://www.geeksforgeeks.org/introduction-of-er-model/ 
@@ -27,3 +26,5 @@ Results below
 Another example of how indexing works and speeds up queries  
 ![how indexing works and speeds up queries](https://github.com/user-attachments/assets/44c043da-5bfc-42ed-81f3-dc43a4b5aebe)
 
+# More coding  
+1 hour of SQL - https://youtu.be/l8DCPaHc5TQ?si=-S48CvYq03yJA1hm. 
