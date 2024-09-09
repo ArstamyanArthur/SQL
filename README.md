@@ -1,3 +1,4 @@
+# 1 hour of SQL - https://youtu.be/l8DCPaHc5TQ?si=-S48CvYq03yJA1hm. 
 # ER diagrams
 ## GeeksforGeeks Introduction of ER Model  
 https://www.geeksforgeeks.org/introduction-of-er-model/ 
